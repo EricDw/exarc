@@ -1,0 +1,4 @@
+rootProject.name = 'core'
+rootProject.name = 'exarc'
+include 'core'
+
